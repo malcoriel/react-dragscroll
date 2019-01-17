@@ -25,9 +25,6 @@
     "url": "https://github.com/qiaolb/react-dragscroll/issues"
   },
   "homepage": "https://github.com/qiaolb/react-dragscroll#readme",
-  "dependencies": {
-    "react": "^16.1.1"
-  },
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^6.2.5",
